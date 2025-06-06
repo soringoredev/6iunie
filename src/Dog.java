@@ -15,7 +15,7 @@ public class Dog {
         Dog numeDog  = new Dog("dalmatian", "Rex");
         Dog numeDog2 = new Dog("ciobanesc", "Boss");
         Dog numeDog3 = new Dog("alabai", "MyBoy");
-        Dog numeDog3 = new Dog("alabai", "MyBoy");
+        Dog numeDog4 = new Dog("alabai", "MyBoy");
 
     }
 }
